@@ -1,1 +1,1 @@
-# groupings
+# group-profile
